@@ -12,13 +12,13 @@
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://lambert-s-portfolio.vercel.app">
   <strong>view portfolio ↗</strong>
 </a>
 
 &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Codewithlambert">
+<a href="https://github.com/codewithlambert">
   <strong>github ↗</strong>
 </a>
 
@@ -26,9 +26,7 @@
 
 </div>
 
-
 <!-- ───────────────────────────────────────────────────────────── -->
-
 
 ## — developer
 
@@ -37,9 +35,7 @@ I build digital systems and experiences.
 Focused on clean code, minimal interfaces,
 and products that solve real problems.
 
-
 <br>
-
 
 ## — selected work
 
@@ -60,7 +56,7 @@ and keep track of their industrial training journey.
 
 <br>
 
-**[ view case ↗ ](YOUR_LYNKTERN_URL)**
+**[ view case ↗ ](https://lambert-s-portfolio.vercel.app/projects/lynktern)**
 
 </td>
 
@@ -82,7 +78,7 @@ built around creative presentation.
 
 <br>
 
-**[ view project ↗ ](YOUR_AESTHURA_URL)**
+**[ view project ↗ ](https://aesthura.vercel.app)**
 
 </td>
 
@@ -100,7 +96,7 @@ designed for a smooth experience.
 
 <br>
 
-**[ view project ↗ ](YOUR_CHACHOW_URL)**
+**[ view project ↗ ](https://lambert-s-portfolio.vercel.app/projects/chachow)**
 
 </td>
 
@@ -122,7 +118,7 @@ visual direction for a streetwear brand.
 
 <br>
 
-**[ view project ↗ ](YOUR_NXTLSTCHZ_URL)**
+**[ view project ↗ ](https://lambert-s-portfolio.vercel.app/projects/nxtlstchz)**
 
 </td>
 
@@ -140,7 +136,7 @@ New experiments.
 
 <br><br>
 
-**[ explore github ↗ ](https://github.com/Codewithlambert)**
+**[ explore github ↗ ](https://github.com/codewithlambert)**
 
 </td>
 
@@ -148,9 +144,7 @@ New experiments.
 
 </table>
 
-
 <br>
-
 
 ## — stack
 
@@ -162,3 +156,42 @@ backend        →   Node.js
 database       →   PostgreSQL
 design         →   Figma
 deployment     →   Vercel
+```
+
+---
+
+### 📌 Live portfolio
+
+https://lambert-s-portfolio.vercel.app
+
+---
+
+### ▶️ Run Locally
+
+```bash
+# clone
+git clone https://github.com/codewithlambert/codewithlambert.git
+cd codewithlambert
+
+# install
+npm install
+
+# run in development
+npm run dev
+```
+
+Open http://localhost:3000 to view locally.
+
+---
+
+### 📬 Contact
+
+I'm open to freelance and full-time opportunities. Reach out via my portfolio contact form:
+
+- Portfolio: https://lambert-s-portfolio.vercel.app
+
+---
+
+<div align="center">
+  <sub>Designed & Maintained by Samuel Lambert • © 2026 • Built with ♥</sub>
+</div>
