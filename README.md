@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel Lambert 👨‍💻
+# Hi there, I'm Lambert, The dev nextdoor👨‍💻
 
 > Building modern web experiences with **React** & **TypeScript**
 
