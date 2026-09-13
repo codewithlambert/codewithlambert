@@ -10,53 +10,56 @@
 
 <sub>dorborobari samuel lambert</sub>
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logoColor=white)](https://lambert-s-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithlambert)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-%2300D084?style=for-the-badge)](https://lambert-s-portfolio.vercel.app)
+
 <br><br>
-
-<a href="https://lambert-s-portfolio.vercel.app">
-  <strong>view portfolio ↗</strong>
-</a>
-
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/codewithlambert">
-  <strong>github ↗</strong>
-</a>
-
-<br><br><br>
 
 </div>
 
-<!-- ───────────────────────────────────────────────────────────── -->
+---
 
-## — developer
+## 📋 Table of Contents
 
-I build digital systems and experiences.
+- [About](#about)
+- [Selected Work](#selected-work)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
+- [Contact](#contact)
 
-Focused on clean code, minimal interfaces,
-and products that solve real problems.
+---
 
-<br>
+## About
 
-## — selected work
+I build digital systems and experiences focused on **clean code**, **minimal interfaces**, and **products that solve real problems**.
+
+With a passion for thoughtful design and robust architecture, I create solutions that balance aesthetics with functionality.
+
+---
+
+## Selected Work
 
 <table>
 <tr>
 
 <td colspan="2">
 
-### ⭐ featured
+### ⭐ Featured Project
 
 # Lynktern
 
-**SIWES platform for Nigerian students.**
+**SIWES platform for Nigerian students**
 
-A platform built around the student internship experience —
-helping students discover opportunities, manage applications,
-and keep track of their industrial training journey.
+A comprehensive platform built around the student internship experience. Lynktern helps students discover opportunities, manage applications, and keep track of their industrial training journey with an intuitive interface and powerful features.
 
 <br>
 
-**[ view case ↗ ](https://lambert-s-portfolio.vercel.app/projects/lynktern)**
+**Technologies:** React, Node.js, PostgreSQL, Tailwind CSS
+
+**[ → View Full Case Study ](https://lambert-s-portfolio.vercel.app/projects/lynktern)**
 
 </td>
 
@@ -68,17 +71,13 @@ and keep track of their industrial training journey.
 
 ### Aesthura
 
-Creative portfolio
-experience.
+**Creative Portfolio Experience**
 
-<br>
+A minimal digital experience built around creative presentation. Showcasing the art of simplicity in web design with a focus on visual storytelling.
 
-A minimal digital experience
-built around creative presentation.
+**Technologies:** React, Next.js, Tailwind CSS
 
-<br>
-
-**[ view project ↗ ](https://aesthura.vercel.app)**
+[→ Explore Project](https://aesthura.vercel.app)
 
 </td>
 
@@ -86,17 +85,13 @@ built around creative presentation.
 
 ### Chachow
 
-Digital product
-experience.
+**Digital Product Experience**
 
-<br>
+A product-focused interface designed for a smooth user experience. Built with modern web standards and best practices for responsive, accessible design.
 
-A product-focused interface
-designed for a smooth experience.
+**Technologies:** React, Next.js, TypeScript, Tailwind CSS
 
-<br>
-
-**[ view project ↗ ](https://lambert-s-portfolio.vercel.app/projects/chachow)**
+[→ View Project](https://lambert-s-portfolio.vercel.app/projects/chachow)
 
 </td>
 
@@ -108,35 +103,27 @@ designed for a smooth experience.
 
 ### Nxtlstchz
 
-Streetwear brand
-identity.
+**Streetwear Brand Identity**
 
-<br>
+Digital experience and visual direction for a contemporary streetwear brand. A complete digital ecosystem combining e-commerce functionality with brand storytelling.
 
-Digital experience and
-visual direction for a streetwear brand.
+**Technologies:** Next.js, Node.js, Vercel
 
-<br>
-
-**[ view project ↗ ](https://lambert-s-portfolio.vercel.app/projects/nxtlstchz)**
+[→ View Project](https://lambert-s-portfolio.vercel.app/projects/nxtlstchz)
 
 </td>
 
 <td width="50%">
 
-### more coming.
+### More Coming
 
-Still building.
+**Still Building**
 
-<br><br>
+New systems. New ideas. New experiments.
 
-New systems.
-New ideas.
-New experiments.
+Exploring innovative solutions and pushing the boundaries of what's possible.
 
-<br><br>
-
-**[ explore github ↗ ](https://github.com/codewithlambert)**
+[→ Explore All Work](https://github.com/codewithlambert?tab=repositories)
 
 </td>
 
@@ -144,51 +131,61 @@ New experiments.
 
 </table>
 
-<br>
+---
 
-## — stack
+## Tech Stack
 
-```text
-frontend       →   React / Next.js
-language       →   JavaScript / TypeScript
-styling        →   Tailwind CSS
-backend        →   Node.js
-database       →   PostgreSQL
-design         →   Figma
-deployment     →   Vercel
-```
+| Category | Tools |
+|----------|-------|
+| **Frontend** | React, Next.js |
+| **Language** | JavaScript, TypeScript |
+| **Styling** | Tailwind CSS |
+| **Backend** | Node.js |
+| **Database** | PostgreSQL |
+| **Design** | Figma |
+| **Deployment** | Vercel |
 
 ---
 
-### 📌 Live portfolio
+## Quick Start
 
-https://lambert-s-portfolio.vercel.app
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
 
----
-
-### ▶️ Run Locally
+### Installation
 
 ```bash
-# clone
+# Clone the repository
 git clone https://github.com/codewithlambert/codewithlambert.git
 cd codewithlambert
 
-# install
+# Install dependencies
 npm install
 
-# run in development
+# Start development server
 npm run dev
 ```
 
-Open http://localhost:3000 to view locally.
+Open [http://localhost:3000](http://localhost:3000) to view the project locally.
+
+### Build for Production
+
+```bash
+npm run build
+npm start
+```
 
 ---
 
-### 📬 Contact
+## Contact
 
-I'm open to freelance and full-time opportunities. Reach out via my portfolio contact form:
+I'm open to **freelance** and **full-time opportunities**.
 
-- Portfolio: https://lambert-s-portfolio.vercel.app
+Reach out via my portfolio contact form or connect with me:
+
+- 🌐 **Portfolio:** [lambert-s-portfolio.vercel.app](https://lambert-s-portfolio.vercel.app)
+- 💻 **GitHub:** [@codewithlambert](https://github.com/codewithlambert)
 
 ---
 
