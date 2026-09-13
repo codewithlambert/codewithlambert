@@ -1,104 +1,164 @@
 <div align="center">
 
-  <!-- Header Branding -->
-  <br />
-  <h1><b>lambert.</b></h1>
-  <p><code>FULLSTACK ENGINEER • BUILDING SYSTEMS IN SILENCE</code></p>
+<br>
 
-  <!-- Navigation / Links -->
-  <p>
-    <a href="https://lambert-s-portfolio.vercel.app"><b>[ portfolio ]</b></a> &nbsp;•&nbsp; 
-    <a href="mailto:igweajurijosph@gmail.com"><b>[ email ]</b></a> &nbsp;•&nbsp; 
-    <a href="https://github.com/codewithlambert"><b>[ github ]</b></a>
-  </p>
+# lambert.
+
+### building systems in silence.
+
+<br>
+
+<sub>dorborobari samuel lambert</sub>
+
+<br><br>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <strong>view portfolio ↗</strong>
+</a>
+
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Codewithlambert">
+  <strong>github ↗</strong>
+</a>
+
+<br><br><br>
 
 </div>
 
----
 
-### 01 / selected work
+<!-- ───────────────────────────────────────────────────────────── -->
 
-> a collection of systems, products, and experiences i've built.
 
-<br />
+## — developer
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://aesthura.vercel.app">aesthura ↗</a></h3>
-      <p><i>interior design showcase & modern experience</i></p>
-      <code>NEXT.JS</code> / <code>TS</code> / <code>TAILWIND</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://car-sandy-pi.vercel.app">car dealership ↗</a></h3>
-      <p><i>modern car sales platform & dynamic portal</i></p>
-      <code>REACT</code> / <code>TYPESCRIPT</code> / <code>VERCEL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codewithlambert/llm-chat-app-template">llm chat app ↗</a></h3>
-      <p><i>conversational ai template & interface boilerplate</i></p>
-      <code>JAVASCRIPT</code> / <code>REACT</code> / <code>AI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/codewithlambert/mimea">mimea ↗</a></h3>
-      <p><i>custom minimal web application</i></p>
-      <code>JAVASCRIPT</code> / <code>NODE.JS</code>
-    </td>
-  </tr>
-</table>
+I build digital systems and experiences.
 
----
+Focused on clean code, minimal interfaces,
+and products that solve real problems.
 
-### 02 / system stats & contributions
 
-<!-- GitHub Snake Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithlambert/codewithlambert/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithlambert/codewithlambert/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/codewithlambert/codewithlambert/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
-<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithlambert&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithlambert&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&hide_border=true" height="150" alt="languages" />
-</div>
-
----
-
-### 03 / about me
+## — selected work
 
 <table>
-  <tr>
-    <td width="40%" valign="top">
-      <p>computer science student.<br>builder. problem solver.<br>focused on systems that actually make an impact.</p>
-    </td>
-    <td width="30%" valign="top">
-      <b>location</b><br />
-      <code>port harcourt, rivers state</code>
-    </td>
-    <td width="30%" valign="top">
-      <b>focus</b><br />
-      <code>fullstack engineering</code><br />
-      <code>ai systems</code><br />
-      <code>product design</code>
-    </td>
-  </tr>
+<tr>
+
+<td colspan="2">
+
+### ⭐ featured
+
+# Lynktern
+
+**SIWES platform for Nigerian students.**
+
+A platform built around the student internship experience —
+helping students discover opportunities, manage applications,
+and keep track of their industrial training journey.
+
+<br>
+
+**[ view case ↗ ](YOUR_LYNKTERN_URL)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Aesthura
+
+Creative portfolio
+experience.
+
+<br>
+
+A minimal digital experience
+built around creative presentation.
+
+<br>
+
+**[ view project ↗ ](YOUR_AESTHURA_URL)**
+
+</td>
+
+<td width="50%">
+
+### Chachow
+
+Digital product
+experience.
+
+<br>
+
+A product-focused interface
+designed for a smooth experience.
+
+<br>
+
+**[ view project ↗ ](YOUR_CHACHOW_URL)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Nxtlstchz
+
+Streetwear brand
+identity.
+
+<br>
+
+Digital experience and
+visual direction for a streetwear brand.
+
+<br>
+
+**[ view project ↗ ](YOUR_NXTLSTCHZ_URL)**
+
+</td>
+
+<td width="50%">
+
+### more coming.
+
+Still building.
+
+<br><br>
+
+New systems.
+New ideas.
+New experiments.
+
+<br><br>
+
+**[ explore github ↗ ](https://github.com/Codewithlambert)**
+
+</td>
+
+</tr>
+
 </table>
 
----
 
-### 04 / let's build something real.
+<br>
 
-<p align="center">
-  <code>hello@lambert.dev</code> &nbsp;•&nbsp; 
-  <code>@_yk_lambert</code> &nbsp;•&nbsp; 
-  <a href="https://lambert-s-portfolio.vercel.app"><code>lambert-s-portfolio.vercel.app</code></a>
-</p>
 
-<p align="center">
-  <sub>© 2026 lambert. all rights reserved.</sub>
-</p>
+## — stack
+
+```text
+frontend       →   React / Next.js
+language       →   JavaScript / TypeScript
+styling        →   Tailwind CSS
+backend        →   Node.js
+database       →   PostgreSQL
+design         →   Figma
+deployment     →   Vercel
